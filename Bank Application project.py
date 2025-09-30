@@ -48,7 +48,7 @@ def create_connection():
         connection = mysql.connector.connect(
             host='localhost',  
             user='root',  
-            password='Lakshu_nilan',  
+            password='*********',  
             database='bank_system'
         )
         if connection.is_connected():
@@ -579,3 +579,4 @@ if __name__ == "__main__":
     root.geometry("800x800")
     login_screen(root, accounts)
     root.mainloop()
+
