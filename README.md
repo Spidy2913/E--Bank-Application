@@ -93,14 +93,10 @@ Email Service: Gmail SMTP
 
 
 
+<img width="1305" height="193" alt="image" src="https://github.com/user-attachments/assets/0f58afc6-4c62-492f-aad0-6f850664719f" />
 
 
-
-
-
-
-
-
+<img width="630" height="179" alt="image" src="https://github.com/user-attachments/assets/0044a7f6-c189-416f-97fb-dd94e4a65cc0" />
 
 
 ### 📊 Project Review
